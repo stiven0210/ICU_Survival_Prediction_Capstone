@@ -1,0 +1,13 @@
+numpy
+pandas
+seaborn
+matplotlib
+psycopg2
+getpass
+time
+pickle
+re
+nltk
+sklearn
+xgboost
+spacy
